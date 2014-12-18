@@ -1,0 +1,9 @@
+E:\Visual Studio Work\StudentInformationApp\StudentInformationApp\bin\Debug\StudentInformationApp.exe.config
+E:\Visual Studio Work\StudentInformationApp\StudentInformationApp\bin\Debug\StudentInformationApp.exe
+E:\Visual Studio Work\StudentInformationApp\StudentInformationApp\bin\Debug\StudentInformationApp.pdb
+E:\Visual Studio Work\StudentInformationApp\StudentInformationApp\obj\Debug\StudentInformationApp.csprojResolveAssemblyReference.cache
+E:\Visual Studio Work\StudentInformationApp\StudentInformationApp\obj\Debug\StudentInformationApp.Form1.resources
+E:\Visual Studio Work\StudentInformationApp\StudentInformationApp\obj\Debug\StudentInformationApp.Properties.Resources.resources
+E:\Visual Studio Work\StudentInformationApp\StudentInformationApp\obj\Debug\StudentInformationApp.csproj.GenerateResource.Cache
+E:\Visual Studio Work\StudentInformationApp\StudentInformationApp\obj\Debug\StudentInformationApp.exe
+E:\Visual Studio Work\StudentInformationApp\StudentInformationApp\obj\Debug\StudentInformationApp.pdb
